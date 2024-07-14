@@ -48,3 +48,11 @@
 ;; (unpin! pinned-package another-pinned-package)
 ;; ...Or *all* packages (NOT RECOMMENDED; will likely break things)
 ;; (unpin! t)
+
+(package! org-appear)
+(package! org-roam)
+(package! all-the-icons)
+(package! all-the-icons-dired)
+(package! all-the-icons-ivy-rich)
+(package! all-the-icons-ivy)
+(package! org-modern)
