@@ -1,6 +1,6 @@
 # Doom Emacs
 
-![Screenshot of Doom Emacs](assets/images/screenshot.png)
+![Screenshot of Doom Emacs](https://github.com/user-attachments/assets/fcd0e401-0712-46d4-9821-a1ade609a83f)
 
 Some years ago, I embarked on the noble quest to learn something about programming. While looking for a manual on the internet, I found the PDF "Computational Physics: A Practical Introduction to Computational Physics and Scientific Computing (using C++)". 
 I never read the whole thing; in fact, true to my usual habit, I only skimmed the first chapter, and if I remember correctly, not even the entire thing, which, amusingly, wasn't about C++ at all but rather a text editor called Emacs—a strange tool that, for reasons I can't quite explain, I found incredibly enjoyable.

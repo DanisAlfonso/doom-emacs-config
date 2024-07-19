@@ -51,8 +51,4 @@
 
 (package! org-appear)
 (package! org-roam)
-(package! all-the-icons)
-(package! all-the-icons-dired)
-(package! all-the-icons-ivy-rich)
-(package! all-the-icons-ivy)
 (package! org-modern)

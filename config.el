@@ -116,27 +116,6 @@
   :config
   (org-roam-setup))
 
-;; All the icons configuration
-(use-package! all-the-icons
-  :if (display-graphic-p))
-
-(use-package! all-the-icons-dired
-  :hook (dired-mode . all-the-icons-dired-mode))
-
-(use-package! all-the-icons-ivy-rich
-  :init (all-the-icons-ivy-rich-mode 1))
-
-(use-package! all-the-icons-ivy
-  :after ivy
-  :init
-  (setq all-the-icons-ivy-buffer-commands
-        '(ivy-switch-buffer
-          ivy-switch-buffer-other-window
-          counsel-projectile-switch-to-buffer
-          counsel-projectile-switch-to-buffer-other-window))
-  :config
-  (all-the-icons-ivy-setup))
-
 ;; Additional org-mode configurations
 (after! org
   (setq org-hide-emphasis-markers t  ;; Hide markup elements
